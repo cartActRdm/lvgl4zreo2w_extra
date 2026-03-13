@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblv_drivers.a "CMakeFiles/lv_drivers.dir/_deps/lv_drivers-src/display/fbdev.c.o" "CMakeFiles/lv_drivers.dir/_deps/lv_drivers-src/indev/evdev.c.o" "CMakeFiles/lv_drivers.dir/_deps/lv_drivers-src/sdl/sdl.c.o" "CMakeFiles/lv_drivers.dir/_deps/lv_drivers-src/sdl/sdl_common.c.o"
+/usr/bin/ranlib liblv_drivers.a

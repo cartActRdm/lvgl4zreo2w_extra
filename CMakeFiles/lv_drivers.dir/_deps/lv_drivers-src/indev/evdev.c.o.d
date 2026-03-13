@@ -1,0 +1,285 @@
+CMakeFiles/lv_drivers.dir/_deps/lv_drivers-src/indev/evdev.c.o: \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lv_drivers-src/indev/evdev.c \
+ /usr/include/stdc-predef.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lv_drivers-src/indev/evdev.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/config/lv_drv_conf.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/lvgl.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/misc/lv_log.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/misc/../lv_conf_internal.h \
+ /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/libc-header-start.h \
+ /usr/include/features.h /usr/include/features-time64.h \
+ /usr/include/bits/wordsize.h /usr/include/bits/timesize.h \
+ /usr/include/sys/cdefs.h /usr/include/bits/long-double.h \
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/bits/time64.h /usr/include/bits/wchar.h \
+ /usr/include/bits/stdint-intn.h /usr/include/bits/stdint-uintn.h \
+ /usr/include/bits/stdint-least.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/misc/../lv_conf_kconfig.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/config/lv_conf.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/misc/lv_types.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/misc/lv_timer.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/misc/../hal/lv_hal_tick.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/misc/../hal/../lv_conf_internal.h \
+ /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/include/stdbool.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/misc/lv_math.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/misc/lv_mem.h \
+ /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/include/stddef.h \
+ /usr/include/string.h /usr/include/bits/types/locale_t.h \
+ /usr/include/bits/types/__locale_t.h /usr/include/strings.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/misc/lv_async.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/misc/lv_anim_timeline.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/misc/lv_anim.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/misc/lv_printf.h \
+ /usr/include/inttypes.h \
+ /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/include/stdarg.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/lv_hal.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/lv_hal_disp.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/lv_hal.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/lv_draw.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/../lv_conf_internal.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/../misc/lv_style.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/../misc/../font/lv_font.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/../misc/../font/../lv_conf_internal.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/../misc/../font/lv_symbol_def.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/../misc/../font/../misc/lv_area.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/../misc/../font/../misc/../lv_conf_internal.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/../misc/lv_color.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/../misc/../lv_conf_internal.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/../misc/lv_assert.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/../misc/lv_log.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/../misc/lv_mem.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/../misc/lv_math.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/../misc/lv_types.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/../misc/lv_area.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/../misc/lv_anim.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/../misc/lv_txt.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/../misc/lv_printf.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/../misc/lv_bidi.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/../misc/lv_style_gen.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/../misc/lv_txt.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/lv_img_decoder.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/lv_img_buf.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/../misc/lv_color.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/../misc/lv_area.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/../misc/lv_fs.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/../misc/lv_types.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/lv_img_cache.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/lv_draw_rect.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/sw/lv_draw_sw_gradient.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/sw/../../misc/lv_color.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/sw/../../misc/lv_style.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/sw/lv_draw_sw_dither.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/sw/../../core/lv_obj_pos.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/sw/../../core/../misc/lv_area.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/lv_draw_label.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/../misc/lv_bidi.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/lv_draw_img.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/lv_draw_line.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/lv_draw_triangle.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/lv_draw_arc.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/lv_draw_mask.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/../misc/lv_math.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/lv_draw_transform.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../draw/lv_draw_layer.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../misc/lv_color.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../misc/lv_area.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../misc/lv_ll.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../misc/lv_timer.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/lv_hal_indev.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/../lv_conf_internal.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/hal/lv_hal_tick.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/core/lv_obj.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/core/../lv_conf_internal.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/core/../misc/lv_style.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/core/../misc/lv_types.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/core/../misc/lv_area.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/core/../misc/lv_color.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/core/../misc/lv_assert.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/core/../hal/lv_hal.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/core/lv_obj_tree.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/core/lv_obj_pos.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/core/lv_obj_scroll.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/core/../misc/lv_anim.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/core/lv_obj_style.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/core/../misc/lv_bidi.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/core/lv_obj_style_gen.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/core/lv_obj_draw.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/core/../draw/lv_draw.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/core/lv_obj_class.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/core/lv_event.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/core/lv_group.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/core/../misc/lv_ll.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/core/lv_group.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/core/lv_indev.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/core/lv_obj.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/core/../hal/lv_hal_indev.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/core/lv_refr.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/core/lv_disp.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/core/lv_theme.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/core/../core/lv_obj.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/core/lv_theme.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/font/lv_font.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/font/lv_font_loader.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/font/lv_font_fmt_txt.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/font/lv_font.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/widgets/lv_arc.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/widgets/../lv_conf_internal.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/widgets/../core/lv_obj.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/widgets/lv_btn.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/widgets/lv_img.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/widgets/../misc/lv_fs.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/widgets/../draw/lv_draw.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/widgets/lv_label.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/widgets/../font/lv_font.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/widgets/../font/lv_symbol_def.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/widgets/../misc/lv_txt.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/widgets/lv_line.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/widgets/lv_table.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/widgets/lv_label.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/widgets/lv_checkbox.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/widgets/lv_bar.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/widgets/../misc/lv_anim.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/widgets/lv_btn.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/widgets/lv_slider.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/widgets/lv_bar.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/widgets/lv_btnmatrix.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/widgets/lv_dropdown.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/widgets/../widgets/lv_label.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/widgets/lv_roller.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/widgets/lv_textarea.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/widgets/lv_canvas.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/widgets/../widgets/lv_img.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/widgets/../draw/lv_draw_img.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/widgets/lv_switch.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/draw/lv_draw.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/lv_api_map.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/../lvgl.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/lv_extra.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/layouts/lv_layouts.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/layouts/flex/lv_flex.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/layouts/flex/../../../core/lv_obj.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/layouts/grid/lv_grid.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/layouts/grid/../../../core/lv_obj.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/libs/lv_libs.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/libs/bmp/lv_bmp.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/libs/bmp/../../../lv_conf_internal.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/libs/fsdrv/lv_fsdrv.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/libs/fsdrv/../../../lv_conf_internal.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/libs/png/lv_png.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/libs/png/../../../lv_conf_internal.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/libs/gif/lv_gif.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/libs/gif/../../../lvgl.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/libs/gif/../../../../lvgl.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/libs/qrcode/lv_qrcode.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/libs/qrcode/../../../lvgl.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/libs/sjpg/lv_sjpg.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/libs/freetype/lv_freetype.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/libs/freetype/../../../lvgl.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/libs/rlottie/lv_rlottie.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/libs/rlottie/../../../lvgl.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/libs/ffmpeg/lv_ffmpeg.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/libs/ffmpeg/../../../lvgl.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/libs/tiny_ttf/lv_tiny_ttf.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/libs/tiny_ttf/../../../lvgl.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/others/lv_others.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/others/snapshot/lv_snapshot.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/others/snapshot/../../../lv_conf_internal.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/others/snapshot/../../../core/lv_obj.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/others/monkey/lv_monkey.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/others/monkey/../../../lvgl.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/others/gridnav/lv_gridnav.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/others/gridnav/../../../core/lv_obj.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/others/fragment/lv_fragment.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/others/fragment/../../../lv_conf_internal.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/others/imgfont/lv_imgfont.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/others/imgfont/../../../lvgl.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/others/msg/lv_msg.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/others/msg/../../../core/lv_obj.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/others/ime/lv_ime_pinyin.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/others/ime/../../../lvgl.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/themes/lv_themes.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/themes/default/lv_theme_default.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/themes/default/../../../core/lv_obj.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/themes/mono/lv_theme_mono.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/themes/mono/../../../core/lv_obj.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/themes/basic/lv_theme_basic.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/themes/basic/../../../core/lv_obj.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/widgets/lv_widgets.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/widgets/animimg/lv_animimg.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/widgets/animimg/../../../lvgl.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/widgets/calendar/lv_calendar.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/widgets/calendar/../../../widgets/lv_btnmatrix.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/widgets/calendar/lv_calendar_header_arrow.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/widgets/calendar/../../../core/lv_obj.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/widgets/calendar/lv_calendar_header_dropdown.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/widgets/chart/lv_chart.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/widgets/chart/../../../lvgl.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/widgets/keyboard/lv_keyboard.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/widgets/keyboard/../../../widgets/lv_btnmatrix.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/widgets/list/lv_list.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/widgets/list/../../../core/lv_obj.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/widgets/list/../../layouts/flex/lv_flex.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/widgets/menu/lv_menu.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/widgets/menu/../../../core/lv_obj.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/widgets/msgbox/lv_msgbox.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/widgets/msgbox/../../../lvgl.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/widgets/meter/lv_meter.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/widgets/meter/../../../lvgl.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/widgets/spinbox/lv_spinbox.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/widgets/spinbox/../../../lvgl.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/widgets/spinner/lv_spinner.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/widgets/spinner/../../../lvgl.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/widgets/tabview/lv_tabview.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/widgets/tabview/../../../lvgl.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/widgets/tileview/lv_tileview.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/widgets/tileview/../../../core/lv_obj.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/widgets/win/lv_win.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/widgets/win/../../../lvgl.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/widgets/colorwheel/lv_colorwheel.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/widgets/colorwheel/../../../lvgl.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/widgets/led/lv_led.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/widgets/led/../../../lvgl.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/widgets/imgbtn/lv_imgbtn.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/widgets/imgbtn/../../../lvgl.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/widgets/span/lv_span.h \
+ /home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-src/src/extra/widgets/span/../../../lvgl.h \
+ /usr/include/stdio.h /usr/include/bits/types/__fpos_t.h \
+ /usr/include/bits/types/__mbstate_t.h \
+ /usr/include/bits/types/__fpos64_t.h /usr/include/bits/types/__FILE.h \
+ /usr/include/bits/types/FILE.h /usr/include/bits/types/struct_FILE.h \
+ /usr/include/bits/types/cookie_io_functions_t.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/floatn.h \
+ /usr/include/bits/floatn-common.h /usr/include/unistd.h \
+ /usr/include/bits/posix_opt.h /usr/include/bits/environments.h \
+ /usr/include/bits/confname.h /usr/include/bits/getopt_posix.h \
+ /usr/include/bits/getopt_core.h /usr/include/bits/unistd_ext.h \
+ /usr/include/fcntl.h /usr/include/bits/fcntl.h \
+ /usr/include/bits/fcntl-linux.h \
+ /usr/include/bits/types/struct_timespec.h /usr/include/bits/endian.h \
+ /usr/include/bits/endianness.h /usr/include/bits/types/time_t.h \
+ /usr/include/bits/stat.h /usr/include/bits/struct_stat.h \
+ /usr/include/linux/input.h /usr/include/sys/time.h \
+ /usr/include/bits/types/struct_timeval.h /usr/include/sys/select.h \
+ /usr/include/bits/select.h /usr/include/bits/types/sigset_t.h \
+ /usr/include/bits/types/__sigset_t.h /usr/include/sys/ioctl.h \
+ /usr/include/bits/ioctls.h /usr/include/asm/ioctls.h \
+ /usr/include/asm-generic/ioctls.h /usr/include/linux/ioctl.h \
+ /usr/include/asm/ioctl.h /usr/include/asm-generic/ioctl.h \
+ /usr/include/linux/sockios.h /usr/include/asm/bitsperlong.h \
+ /usr/include/asm-generic/bitsperlong.h /usr/include/asm/sockios.h \
+ /usr/include/asm-generic/sockios.h /usr/include/bits/ioctl-types.h \
+ /usr/include/sys/ttydefaults.h /usr/include/sys/types.h \
+ /usr/include/bits/types/clock_t.h /usr/include/bits/types/clockid_t.h \
+ /usr/include/bits/types/timer_t.h /usr/include/endian.h \
+ /usr/include/bits/byteswap.h /usr/include/bits/uintn-identity.h \
+ /usr/include/bits/pthreadtypes.h /usr/include/bits/thread-shared-types.h \
+ /usr/include/bits/pthreadtypes-arch.h \
+ /usr/include/bits/atomic_wide_counter.h /usr/include/bits/struct_mutex.h \
+ /usr/include/bits/struct_rwlock.h /usr/include/linux/types.h \
+ /usr/include/asm/types.h /usr/include/asm-generic/types.h \
+ /usr/include/asm-generic/int-ll64.h /usr/include/linux/posix_types.h \
+ /usr/include/linux/stddef.h /usr/include/asm/posix_types.h \
+ /usr/include/asm/posix_types_64.h /usr/include/asm-generic/posix_types.h \
+ /usr/include/linux/input-event-codes.h

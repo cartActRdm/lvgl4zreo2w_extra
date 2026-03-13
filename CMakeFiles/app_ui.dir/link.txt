@@ -1,0 +1,2 @@
+/usr/bin/ar qc libapp_ui.a CMakeFiles/app_ui.dir/src/ui_demo.c.o CMakeFiles/app_ui.dir/src/ui_font_runtime.c.o CMakeFiles/app_ui.dir/src/fonts/lv_font_cn_14.c.o
+/usr/bin/ranlib libapp_ui.a

@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/haicoin/.openclaw/workspace/lvgl-zero2w/build/cmake_install.cmake",
+		"/home/haicoin/.openclaw/workspace/lvgl-zero2w/build/_deps/lvgl-build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

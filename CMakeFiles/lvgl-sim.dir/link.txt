@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/lvgl-sim.dir/link.d "CMakeFiles/lvgl-sim.dir/src/main.c.o" -o lvgl-sim  libapp_ui.a lib/liblvgl.a liblv_drivers.a -lSDL2 -lfreetype
